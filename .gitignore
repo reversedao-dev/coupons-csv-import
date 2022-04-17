@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+data.csv
+/src/*json
+/src/production/*
+/src/staging/*
+
+.env
